@@ -7,7 +7,7 @@ export const Footer = () => {
             <img className="mt-10 mb-10" src="/images/logo-estrategioli.png" alt="logo" style={{ width: '35px', height: '45px' }}/>
             <div className="flex items-start gap-6 mb-2">
                 <img src="/images/icon-location.svg" alt="location" />
-                <p>Santiago de Chile</p>
+                <p>Chile. Región Metropolitana.</p>
             </div>
             <div className="flex items-start gap-6">
                 <img className="mt-1" src="/images/icon-email.svg" alt="email" />
