@@ -13,7 +13,7 @@ interface Project {
 const projects: Project[] = [
     {
         id: 1,
-        imageUrl: '/images/taxis.jpg',
+        imageUrl: './images/taxis.jpg',
         title: 'Fleet-management-api',
         description: 'Fleet Management Software para consultar las ubicaciones de los vehículos de una empresa de taxis. Permite gestionar flotas, conductores y rutas en tiempo real.',
         technologies: ['TypeScript', 'Prisma', 'Postman'],
@@ -22,7 +22,7 @@ const projects: Project[] = [
     },
     {
         id: 2,
-        imageUrl: '/images/pantalla-ordenes-hamburguesas.png',
+        imageUrl: './images/pantalla-ordenes-hamburguesas.png',
         title: 'Burger-queen-api',
         description: 'Un restaurante de hamburguesas necesita un sistema para tomar pedidos usando tablets, y enviarlos a la cocina para que se preparen eficientemente.',
         technologies: ['Node.js', 'MongoDB', 'Express', 'JavaScript'],
@@ -31,7 +31,7 @@ const projects: Project[] = [
     },
         {
         id: 3,
-        imageUrl: '/images/dataverse-chat.png',
+        imageUrl: './images/dataverse-chat.png',
         title: 'Dataverse Chat',
         description: 'SPA (Single Page Application) desarrollada para gestionar y explorar una colección de películas. La aplicación permite visualizar, filtrar y ordenar títulos, así como interactuar con ellos a través de un sistema de chat impulsado por la API de OpenAI',
         technologies: ['Javascript', 'Css', 'OpenAI'],

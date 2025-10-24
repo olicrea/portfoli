@@ -6,7 +6,7 @@ export const Header = () => {
       <a href="/">
         <img
           className="w-20"
-          src="/images/logo-estrategioli.png" 
+          src="./images/logo-estrategioli.png" 
           alt="Logo"
           style={{ width: '35px', height: '45px' }}
         />

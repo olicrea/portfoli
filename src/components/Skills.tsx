@@ -10,25 +10,25 @@ const skills: SkillsProps[] = [
         title: 'Frontend Development',
         description: 'Construcción de aplicaciones web responsivas y amigables para el usuario.',
         tools: ['React', 'TypeScript', 'Tailwind CSS'],
-        imageUrl: '/images/desktop-solid-full.svg'
+        imageUrl: './images/desktop-solid-full.svg'
     },
     {
         title: 'Backend Development',
         description: 'Experiencia en la creación de APIs backend utilizando diversas tecnologías del lado del servidor. Modelado de datos.',
         tools: ['Node.js', 'Python', 'PostgreSQL'],
-        imageUrl: '/images/robot-solid-full.svg'
+        imageUrl: './images/robot-solid-full.svg'
     },
     {
         title: 'UX/UI Design',
         description: 'Diseño de experiencias intuitivas a través de la investigación exhaustiva, la interacción y la elaboración de prototipos funcionales.',
         tools: ['Figma', 'Adobe XD', 'Canva'],
-        imageUrl: '/images/pencil-solid-full.svg'
+        imageUrl: './images/pencil-solid-full.svg'
     },
     {
         title: 'Softskills',
         description: 'Liderazgo estratégico y visión de negocio. Habilidad para alinear equipos técnicos con los objetivos organizacionales.',
         tools: ['Creatividad', 'Adaptabilidad', 'Empatía'],
-        imageUrl: '/images/people-arrows-solid-full.svg'
+        imageUrl: './images/people-arrows-solid-full.svg'
     },
 
 ]

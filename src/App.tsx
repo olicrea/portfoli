@@ -19,13 +19,13 @@ function App() {
         <div className="w-fit mx-auto mt-6 p-2 border-2 border-LightMint rounded-full">
           <img
             className="rounded-full size-45"
-            src="/images/foto-perfil.jpeg"
+            src="./images/foto-perfil.jpeg"
             alt="rostro"
           />
         </div>
         <img
           className="absolute -bottom-0 left-0"
-          src="/images/bg-curvy-mobile.svg"
+          src="./images/bg-curvy-mobile.svg"
           alt="background curvy mobile" />
       </section>
       <section className='bg-Navy-900 p-6 mb-20'>
